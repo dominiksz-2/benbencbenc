@@ -8,16 +8,16 @@ Ten projekt jest prostą stroną HTML i CSS, więc nie wymaga kompilacji ani spe
 
 Najłatwiejszym sposobem na zobaczenie projektu jest skorzystanie z wbudowanej usługi hostingu GitHub Pages:
 
-[ZOBACZ PROJEKT ONLINE](SKOPIOWANY_ADRES_URL_Z_KROKU_1)
+[ZOBACZ PROJEKT ONLINE](https://dominiksz-2.github.io/benbencbenc/)
 
 ### Opcja 2: Uruchomienie lokalne
 
 1.  Sklonuj repozytorium na swój komputer:
     ```bash
-    git clone [ADRES_URL_REPOZYTORIUM]
+    git clone [https://dominiksz-2.github.io/benbencbenc/]
     ```
 2.  Przejdź do katalogu projektu:
     ```bash
-    cd NazwaRepozytorium
+    cd benbenc
     ```
 3.  Otwórz plik `index.html` w dowolnej przeglądarce internetowej.
